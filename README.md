@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Ayon%20Sadhukhan&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20Architect%20|%20AI%20Innovator%20|%20Data%20Alchemist&descAlignY=51&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Ayon%20Sadhukhan&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Backend%20Architect%20|%20AI%20Innovator%20|%20Data%20Alchemist&descAlignY=55&descAlign=50&descSize=18" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=1000&lines=Transforming+Ideas+into+Intelligent+Systems+%F0%9F%9A%80;Building+the+Future%2C+One+Algorithm+at+a+Time+%F0%9F%92%BB" alt="Typing SVG" />
 
