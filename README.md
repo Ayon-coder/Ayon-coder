@@ -30,10 +30,9 @@ const ayon = {
     role: "Backend Sorcerer",
     code: ["Python", "Java", "C++", "C"],
     technologies: {
-        backend: ["Node.js", "Django", "FastAPI"],
-        ai: ["TensorFlow", "PyTorch", "LangChain"],
+        ai: ["Scikit-Learn"],
         data: ["Pandas", "NumPy", "Scikit-learn"],
-        tools: ["Git", "Docker", "VS Code"]
+        tools: ["Git", "VS Code"]
     },
     currentMission: "Building AI Agents that think",
     learningNow: "Data pipelines & ML Ops",
