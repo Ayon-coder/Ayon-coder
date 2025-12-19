@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Ayon%20Sadhukhan&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20Architect%20|%20AI%20Innovator%20|%20Data%20Alchemist&descAlignY=51&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Ayon%20Sadhukhan&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20Architect%20|%20AI%20Innovator%20|%20Data%20Alchemist&descAlignY=51&descAlign=50" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Transforming+Ideas+into+Intelligent+Systems;Building+the+Future%2C+One+Algorithm+at+a+Time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=1000&lines=Transforming+Ideas+into+Intelligent+Systems+%F0%9F%9A%80;Building+the+Future%2C+One+Algorithm+at+a+Time+%F0%9F%92%BB" alt="Typing SVG" />
 
 <br/>
 
@@ -84,10 +84,10 @@ const ayon = {
 
 ## 📊 PERFORMANCE METRICS
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayon-coder&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=9f9f9f" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayon-coder&theme=radical&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=764ba2" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayon-coder&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=9f9f9f)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayon-coder&theme=radical&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=764ba2)](https://git.io/streak-stats)
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayon-coder&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=9f9f9f&langs_count=10" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayon-coder&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=9f9f9f&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -97,7 +97,7 @@ const ayon = {
 
 ## 🏆 TROPHY CASE
 
-<img src="https://github-profile-trophy.vercel.app/?username=ayon-coder&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=ayon-coder&theme=radical&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -107,7 +107,7 @@ const ayon = {
 
 ## 📈 CONTRIBUTION GRAPH
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayon-coder&bg_color=0d1117&color=667eea&line=764ba2&point=667eea&area=true&hide_border=true" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayon-coder&bg_color=0d1117&color=667eea&line=764ba2&point=667eea&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
