@@ -101,9 +101,16 @@ const ayon = {
 
 <div align="center">
 
-## 🏆 TROPHY CASE
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="800">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ayon-coder&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)
+## 🏆 ACHIEVEMENTS & MILESTONES
+
+<p>
+<img src="https://img.shields.io/badge/Problem_Solver-500+_DSA-FF6B6B?style=for-the-badge&logo=codechef&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Projects-15+-4CAF50?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Code_Streak-100+_Days-FFA500?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Coffee_Consumed-∞-8B4513?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
+</p>
 
 </div>
 
