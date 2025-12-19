@@ -16,13 +16,17 @@
 
 <div align="center">
 
-## 🎯 MISSION CONTROL
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900">
 
 </div>
 
-<table width="100%" border="0">
-<tr>
-<td width="50%" valign="top">
+<br/>
+
+<div align="center">
+
+## 🎯 MISSION CONTROL
+
+</div>
 
 ```javascript
 const ayon = {
@@ -30,25 +34,17 @@ const ayon = {
     role: "Backend Sorcerer",
     code: ["Python", "Java", "C++", "C"],
     technologies: {
-        ai: ["Scikit-Learn"],
+        backend: ["Node.js", "Django", "FastAPI"],
+        ai: ["TensorFlow", "PyTorch", "LangChain"],
         data: ["Pandas", "NumPy", "Scikit-learn"],
-        tools: ["Git", "VS Code"]
+        tools: ["Git", "Docker", "VS Code"]
     },
-    currentMission: "Building AI Agents that think",
-    learningNow: "Data pipelines & ML Ops",
+    currentMission: "Building AI Agents that think & learn",
+    learningNow: "Data pipelines & ML Operations",
     philosophy: "Code. Debug. Deploy. Repeat.",
     funFact: "I debug in production 😎"
 };
 ```
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -226,6 +222,7 @@ Contributing to projects that change lives and push boundaries
 
 ### 💜 Thanks for stopping by! Let's build something extraordinary together 💜
 
+<img src="https://visitcount.itsvg.in/api?id=ayon-coder&icon=5&color=6" />
 
 **"First, solve the problem. Then, write the code." – John Johnson**
 
