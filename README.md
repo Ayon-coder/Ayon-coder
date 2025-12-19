@@ -14,8 +14,6 @@
 
 <br/>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
 ### 🎯 MISSION CONTROL
 
 ```javascript
@@ -35,7 +33,15 @@ const ayon = {
 };
 ```
 
-<br clear="right"/>
+<br/>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+
+</div>
 
 ---
 
@@ -97,7 +103,7 @@ const ayon = {
 
 ## 🏆 TROPHY CASE
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ayon-coder&theme=radical&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=ayon-coder&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)
 
 </div>
 
