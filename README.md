@@ -14,7 +14,15 @@
 
 <br/>
 
-### 🎯 MISSION CONTROL
+<div align="center">
+
+## 🎯 MISSION CONTROL
+
+</div>
+
+<table width="100%" border="0">
+<tr>
+<td width="50%" valign="top">
 
 ```javascript
 const ayon = {
@@ -27,21 +35,23 @@ const ayon = {
         data: ["Pandas", "NumPy", "Scikit-learn"],
         tools: ["Git", "Docker", "VS Code"]
     },
-    currentMission: "Building AI Agents that think & Data pipelines that flow",
-    philosophy: "Code with purpose, debug with patience, deploy with confidence",
-    funFact: "I don't always test my code, but when I do, I do it in production 😎"
+    currentMission: "Building AI Agents that think",
+    learningNow: "Data pipelines & ML Ops",
+    philosophy: "Code. Debug. Deploy. Repeat.",
+    funFact: "I debug in production 😎"
 };
 ```
 
+</td>
+<td width="50%" valign="top">
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+
+</td>
+</tr>
+</table>
+
 <br/>
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
-
-</div>
 
 ---
 
@@ -101,15 +111,15 @@ const ayon = {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="800">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 🏆 ACHIEVEMENTS & MILESTONES
 
 <p>
-<img src="https://img.shields.io/badge/Problem_Solver-500+_DSA-FF6B6B?style=for-the-badge&logo=codechef&logoColor=white" />
+<img src="https://img.shields.io/badge/DSA_Solved-500+-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white" />
 <img src="https://img.shields.io/badge/AI_Projects-15+-4CAF50?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Code_Streak-100+_Days-FFA500?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Coffee_Consumed-∞-8B4513?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
+<img src="https://img.shields.io/badge/Coding_Streak-100+Days-FFA500?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Coffee_Cups-∞-8B4513?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
 </p>
 
 </div>
