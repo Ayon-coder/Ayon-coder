@@ -55,8 +55,6 @@ const ayon = {
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
 <div align="center">
 
 ## 🔥 THE ARSENAL 🔥
@@ -180,8 +178,6 @@ Contributing to projects that change lives and push boundaries
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
 <div align="center">
 
 ## 💡 PHILOSOPHY
@@ -191,8 +187,6 @@ Contributing to projects that change lives and push boundaries
 </div>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <div align="center">
 
@@ -216,20 +210,6 @@ Contributing to projects that change lives and push boundaries
 </div>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<div align="center">
-
-### 🔥 STREAK STATS 🔥
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayon-coder&theme=highcontrast&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=764ba2&sideLabels=667eea&currStreakNum=ffffff&sideNums=ffffff&dates=9f9f9f" />
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <div align="center">
 
