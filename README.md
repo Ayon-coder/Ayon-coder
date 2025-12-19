@@ -55,6 +55,8 @@ const ayon = {
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+
 <div align="center">
 
 ## 🔥 THE ARSENAL 🔥
@@ -101,13 +103,14 @@ const ayon = {
 ## 📊 PERFORMANCE METRICS
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayon-coder&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=9f9f9f)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayon-coder&theme=radical&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=764ba2)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayon-coder&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=9f9f9f&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 <div align="center">
 
@@ -135,6 +138,8 @@ const ayon = {
 </div>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 <div align="center">
 
@@ -175,6 +180,8 @@ Contributing to projects that change lives and push boundaries
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+
 <div align="center">
 
 ## 💡 PHILOSOPHY
@@ -184,6 +191,8 @@ Contributing to projects that change lives and push boundaries
 </div>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 <div align="center">
 
@@ -208,6 +217,8 @@ Contributing to projects that change lives and push boundaries
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+
 <div align="center">
 
 ### 🔥 STREAK STATS 🔥
@@ -217,6 +228,8 @@ Contributing to projects that change lives and push boundaries
 </div>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 <div align="center">
 
