@@ -227,7 +227,6 @@ Contributing to projects that change lives and push boundaries
 
 ### 💜 Thanks for stopping by! Let's build something extraordinary together 💜
 
-<img src="https://visitcount.itsvg.in/api?id=ayon-coder&icon=5&color=6" />
 
 **"First, solve the problem. Then, write the code." – John Johnson**
 
