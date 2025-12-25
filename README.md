@@ -93,15 +93,21 @@ const ayon = {
 
 <div align="center">
 
+<div align="center">
+
 ## 📊 PERFORMANCE METRICS
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ayon-coder&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=9f9f9f&count_private=true&include_all_commits=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ayon-coder&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=9f9f9f&count_private=true&include_all_commits=true">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ayon-coder&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=9f9f9f&count_private=true&include_all_commits=true">
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=ayon-coder&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=9f9f9f&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
 <br/>
+
+<img src="https://streak-stats.demolab.com/?user=ayon-coder&theme=radical&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=667eea" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayon-coder&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=9f9f9f&langs_count=8" alt="Top Languages" />
+
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ayon-coder&theme=radical&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=667eea">
