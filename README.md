@@ -91,27 +91,21 @@ const ayon = {
 
 ---
 
+---
+
 <div align="center">
 
 ## 📊 PERFORMANCE METRICS
 
 <img src="https://github-readme-stats.vercel.app/api?username=ayon-coder&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=9f9f9f&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayon-coder&theme=radical&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=667eea" alt="GitHub Streak" />
-
-<br/>
+<img src="https://streak-stats.demolab.com/?user=ayon-coder&theme=radical&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=667eea" alt="GitHub Streak" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayon-coder&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=9f9f9f&langs_count=10" alt="Top Languages" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+---
 
 ## 🏆 ACHIEVEMENTS & MILESTONES
 
