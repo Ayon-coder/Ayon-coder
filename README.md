@@ -97,15 +97,17 @@ const ayon = {
 
 ---
 
+---
+
 <div align="center">
 
 ## 📊 PERFORMANCE METRICS
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayon-coder&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=9f9f9f&count_private=true&v=2" alt="GitHub Stats" />
+<img src="https://github-readme-stats-six-retrace.vercel.app/api?username=ayon-coder&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=9f9f9f&count_private=true" alt="GitHub Stats" />
 
-<img src="https://streak-stats.demolab.com/?user=ayon-coder&theme=radical&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=667eea&v=2" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-tw.vercel.app/?user=ayon-coder&theme=radical&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=667eea" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayon-coder&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=9f9f9f&langs_count=10&v=2" alt="Top Languages" />
+<img src="https://github-readme-stats-six-retrace.vercel.app/api/top-langs/?username=ayon-coder&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=9f9f9f&langs_count=10" alt="Top Languages" />
 
 </div>
 
