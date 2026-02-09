@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=AYON%20CODER&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+
 [![Profile Views](https://komarev.com/ghpvc/?username=ayon-coder&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)](https://github.com/ayon-coder)
 [![GitHub followers](https://img.shields.io/github/followers/ayon-coder?label=FOLLOWERS&style=for-the-badge&color=blue)](https://github.com/ayon-coder?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/ayon-coder?label=STARS&style=for-the-badge&color=yellow)](https://github.com/ayon-coder?tab=repositories)
@@ -96,29 +98,23 @@ Contributing to projects that change lives and push boundaries
 
 ## 💡 PHILOSOPHY
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9745F5&center=true&vCenter=true&width=600&lines=Code.+Debug.+Deploy.+Repeat.;Make+It+Work.+Make+It+Right.+Make+It+Fast.;First+Solve+The+Problem.+Then+Write+The+Code." alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9745F5&width=600&lines=Code.+Debug.+Deploy.+Repeat.;Make+It+Work.+Make+It+Right.+Make+It+Fast.;First+Solve+The+Problem.+Then+Write+The+Code." alt="Typing SVG" />
 
 ---
 
 ## 🌐 CONNECT WITH ME
 
-<p align="center">
-  <a href="https://linkedin.com/in/ayon-coder"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/ayon_coder"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://instagram.com/ayon_coder"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://ayon-coder.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-</p>
+<a href="https://linkedin.com/in/ayon-coder"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://twitter.com/ayon_coder"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="https://instagram.com/ayon_coder"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://ayon-coder.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
 ---
 
 ### ⚡ RANDOM DEV MEME
 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
-</p>
+<img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
 
 ---
 
@@ -127,3 +123,5 @@ Contributing to projects that change lives and push boundaries
 **"First, solve the problem. Then, write the code." – John Johnson**
 
 ⭐ *If you like what you see, drop a star!* ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
