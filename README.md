@@ -1,4 +1,8 @@
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=AYON%20CODER&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBkNmQwZmE4ZjNhMmU4NjE2YzBjMmU4MjBjMjE4ZjE4ZjE4ZjE4ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/vLWsIREH5q6kKvkb0R/giphy.gif" width="400" alt="Mario GIF"/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ayon-coder&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)](https://github.com/ayon-coder)
 [![GitHub followers](https://img.shields.io/github/followers/ayon-coder?label=FOLLOWERS&style=for-the-badge&color=blue)](https://github.com/ayon-coder?tab=followers)
@@ -68,7 +72,7 @@ const ayon = {
 
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=ayon-coder&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayon-coder&theme=blueberry&hide_border=true)
@@ -123,3 +127,5 @@ Contributing to projects that change lives and push boundaries
 **"First, solve the problem. Then, write the code." – John Johnson**
 
 ⭐ *If you like what you see, drop a star!* ⭐
+
+</div>
