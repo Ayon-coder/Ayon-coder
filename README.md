@@ -1,29 +1,26 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=AYON%20CODER&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+# 👋 Hey there! I'm Ayon
 
-<p align="center">
-  <a href="https://github.com/ayon-coder"><img src="https://komarev.com/ghpvc/?username=ayon-coder&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views"/></a>
-  <a href="https://github.com/ayon-coder?tab=followers"><img src="https://img.shields.io/github/followers/ayon-coder?label=FOLLOWERS&style=for-the-badge&color=blue" alt="GitHub followers"/></a>
-  <a href="https://github.com/ayon-coder?tab=repositories"><img src="https://img.shields.io/github/stars/ayon-coder?label=STARS&style=for-the-badge&color=yellow" alt="GitHub Stars"/></a>
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=ayon-coder&label=Profile+Views&color=blueviolet&style=for-the-badge)](https://github.com/ayon-coder)
+[![GitHub followers](https://img.shields.io/github/followers/ayon-coder?label=Followers&style=for-the-badge&color=blue)](https://github.com/ayon-coder?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/ayon-coder?label=Stars&style=for-the-badge&color=yellow)](https://github.com/ayon-coder?tab=repositories)
 
-<p align="center">
+---
 
 ## 🎯 MISSION CONTROL
-
-</p>
 
 ```javascript
 const ayon = {
     location: "India 🇮🇳",
-    role: "Backend Sorcerer",
-    code: ["Python", "Java", "C++", "C"],
+    role: "Backend Sorcerer & AI Engineer",
+    code: ["Python", "Java", "C++", "C", "JavaScript"],
     technologies: {
-        backend: ["Node.js", "Django", "FastAPI"],
-        ai: ["TensorFlow", "PyTorch", "LangChain"],
-        data: ["Pandas", "NumPy", "Scikit-learn"],
-        tools: ["Git", "Docker", "VS Code"]
+        backend: ["Node.js", "Django", "FastAPI", "Express"],
+        ai: ["TensorFlow", "PyTorch", "LangChain", "Hugging Face"],
+        data: ["Pandas", "NumPy", "Scikit-learn", "Matplotlib"],
+        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+        tools: ["Git", "Docker", "VS Code", "Postman", "Jupyter"]
     },
-    currentMission: "Building AI Agents that think & learn",
+    currentMission: "Building AI Agents that think & learn 🤖",
     learningNow: "Data pipelines & ML Operations",
     philosophy: "Code. Debug. Deploy. Repeat.",
     funFact: "I debug in production 😎"
@@ -32,103 +29,78 @@ const ayon = {
 
 ---
 
-<p align="center">
-
-## 🔥 THE ARSENAL 🔥
-
-</p>
-
-<p align="center">
+## 🔥 THE ARSENAL
 
 ### 💻 Languages
 
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-</p>
-
-<p align="center">
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🚀 Frameworks & Libraries
 
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-</p>
-
-<p align="center">
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### 🛠️ Tools & Platforms
 
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-</p>
-
-<p align="center">
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 💪 Competitive Programming
 
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-</p>
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)
+![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
 
 ---
-
-<p align="center">
 
 ## 🏆 ACHIEVEMENTS & MILESTONES
 
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayon-coder&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
-
-
-
-<p align="center">
-
-## 📈 CONTRIBUTION GRAPH
-
-</p>
-
-<p align="center">
-  <a href="https://github.com/ayon-coder">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayon-coder&theme=react-dark&hide_border=true" alt="Ayon's github activity graph"/>
-  </a>
-</p>
+🎯 **500+** Problems Solved Across Competitive Programming Platforms  
+🌟 **Open Source Contributor** - Contributing to AI/ML projects  
+🚀 **AI Projects** - Built multiple ML models and AI agents  
+💡 **Backend Expert** - Designed scalable REST APIs and microservices  
+📚 **Continuous Learner** - Always exploring new technologies  
 
 ---
 
-<p align="center">
+## 📊 GITHUB STATS
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayon-coder&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayon-coder&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayon-coder&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+## 📈 CONTRIBUTION GRAPH
+
+[![Ayon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayon-coder&theme=react-dark&hide_border=true)](https://github.com/ayon-coder)
+
+---
 
 ## 🎯 CURRENT OBJECTIVES
-
-</p>
-
-<p align="center">
 
 ### 🤖 AI Domination
 Building intelligent agents that learn, adapt, and execute autonomous tasks with precision
@@ -142,55 +114,63 @@ Conquering algorithms, optimizing solutions, solving problems that matter
 ### 🌟 Open Source Impact
 Contributing to projects that change lives and push boundaries
 
-</p>
-
 ---
-
-<p align="center">
 
 ## 💡 PHILOSOPHY
 
-</p>
+```python
+def life_as_developer():
+    while True:
+        learn()
+        code()
+        debug()
+        deploy()
+        celebrate()
+        # Repeat until infinity ♾️
+```
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9745F5&center=true&vCenter=true&width=600&lines=Code.+Debug.+Deploy.+Repeat.;Make+It+Work.+Make+It+Right.+Make+It+Fast.;First+Solve+The+Problem.+Then+Write+The+Code." alt="Typing SVG" />
-</p>
+> *"The only way to do great work is to love what you do."* – Steve Jobs
 
 ---
-
-<p align="center">
 
 ## 🌐 CONNECT WITH ME
 
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://ayon-coder.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:ayonsadhukhan686@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayon-coder)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ayon_coder)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ayon_coder)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ayon-coder.github.io)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
----
-
-<p align="center">
-
-### ⚡ RANDOM DEV MEME
-
-</p>
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
-</p>
+</div>
 
 ---
 
-<p align="center">
+## ⚡ RANDOM DEV QUOTE
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
 
 ### 💜 Thanks for stopping by! Let's build something extraordinary together 💜
 
-**"First, solve the problem. Then, write the code." – John Johnson**
+**"First, solve the problem. Then, write the code."** – *John Johnson*
 
-⭐ *If you like what you see, drop a star!* ⭐
+⭐ ***If you like what you see, drop a star on my repos!*** ⭐
 
-</p>
+![Snake animation](https://raw.githubusercontent.com/ayon-coder/ayon-coder/output/github-contribution-grid-snake-dark.svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayon-coder&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
