@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=AYON%20CODER&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
-<img src="https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562" width="400"/>
+<img src="https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562" width=100%/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ayon-coder&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)](https://github.com/ayon-coder)
 [![GitHub followers](https://img.shields.io/github/followers/ayon-coder?label=FOLLOWERS&style=for-the-badge&color=blue)](https://github.com/ayon-coder?tab=followers)
