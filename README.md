@@ -66,12 +66,6 @@ const ayon = {
 
 ---
 
-## 🏆 ACHIEVEMENTS & MILESTONES
-
-<img src="https://github-profile-trophy.vercel.app/?username=ayon-coder&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-
----
-
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=ayon-coder&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false)
@@ -86,17 +80,32 @@ const ayon = {
 
 ## 🎯 CURRENT OBJECTIVES
 
-### 🤖 AI Domination
-Building intelligent agents that learn, adapt, and execute autonomous tasks with precision
-
-### 📊 Data Mastery
-Extracting insights from chaos, transforming raw data into actionable intelligence
-
-### 🧠 DSA Excellence
-Conquering algorithms, optimizing solutions, solving problems that matter
-
-### 🌟 Open Source Impact
-Contributing to projects that change lives and push boundaries
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://img.shields.io/badge/🤖_AI_DOMINATION-blueviolet?style=for-the-badge" alt="AI"/>
+<br><br>
+<b>Building intelligent agents that learn, adapt,<br>and execute autonomous tasks with precision</b>
+</td>
+<td width="50%" align="center">
+<img src="https://img.shields.io/badge/📊_DATA_MASTERY-blue?style=for-the-badge" alt="Data"/>
+<br><br>
+<b>Extracting insights from chaos, transforming<br>raw data into actionable intelligence</b>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<img src="https://img.shields.io/badge/🧠_DSA_EXCELLENCE-orange?style=for-the-badge" alt="DSA"/>
+<br><br>
+<b>Conquering algorithms, optimizing solutions,<br>solving problems that matter</b>
+</td>
+<td width="50%" align="center">
+<img src="https://img.shields.io/badge/🌟_OPEN_SOURCE_IMPACT-success?style=for-the-badge" alt="Open Source"/>
+<br><br>
+<b>Contributing to projects that change<br>lives and push boundaries</b>
+</td>
+</tr>
+</table>
 
 ---
 
