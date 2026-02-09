@@ -72,8 +72,9 @@ const ayon = {
 ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
 ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
 
----
 
+
+---
 
 ## 📊 GitHub Stats:
 
@@ -121,18 +122,15 @@ const ayon = {
 ## 💡 PHILOSOPHY
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=9745F5&center=true&vCenter=true&width=550&height=50&lines=Code.+Debug.+Deploy.+Repeat.;Make+It+Work.+Make+It+Right.+Make+It+Fast.;First+Solve+The+Problem.+Then+Write+The+Code." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=9745F5&center=true&vCenter=true&width=500&height=40&lines=Code.+Debug.+Deploy.+Repeat.;Make+It+Work.+Make+It+Right.+Make+It+Fast.;First+Solve+The+Problem.+Then+Write+The+Code." alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🌐 CONNECT WITH ME
-
-<a href="https://linkedin.com/in/ayon-coder"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://twitter.com/ayon_coder"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-<a href="https://instagram.com/ayon_coder"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://twitter.com/AyonA89072"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 <a href="https://ayon-coder.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
-<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="mailto:asadhukhan686@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
 ---
 
