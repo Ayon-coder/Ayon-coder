@@ -102,7 +102,9 @@ Contributing to projects that change lives and push boundaries
 
 ## 💡 PHILOSOPHY
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9745F5&width=600&lines=Code.+Debug.+Deploy.+Repeat.;Make+It+Work.+Make+It+Right.+Make+It+Fast.;First+Solve+The+Problem.+Then+Write+The+Code." alt="Typing SVG" />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=9745F5&center=true&vCenter=true&width=550&height=50&lines=Code.+Debug.+Deploy.+Repeat.;Make+It+Work.+Make+It+Right.+Make+It+Fast.;First+Solve+The+Problem.+Then+Write+The+Code." alt="Typing SVG" />
+</p>
 
 ---
 
