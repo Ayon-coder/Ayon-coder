@@ -10,6 +10,10 @@
 
 ## 🎯 MISSION CONTROL
 
+<table align="center">
+<tr>
+<td>
+
 ```javascript
 const ayon = {
     location: "India 🇮🇳",
@@ -27,6 +31,10 @@ const ayon = {
     funFact: "I debug in production 😎"
 };
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -63,6 +71,14 @@ const ayon = {
 ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)
 ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
 ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayon-coder&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" /></a>
+</p>
 
 ---
 
