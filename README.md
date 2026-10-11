@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=AYON%20SADHUKHAN&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=ayon-coder&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge&v=1" alt="Profile Views"/>
+<img src="https://hits.sh/github.com/ayon-coder/ayon-coder.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=9745F5&labelColor=1c1c1c" alt="Profile Views"/>
 <a href="https://github.com/ayon-coder?tab=followers"><img src="https://img.shields.io/github/followers/ayon-coder?label=FOLLOWERS&style=for-the-badge&color=blue" alt="GitHub followers"/></a>
 <a href="https://github.com/ayon-coder?tab=repositories"><img src="https://img.shields.io/github/stars/ayon-coder?label=STARS&style=for-the-badge&color=yellow" alt="GitHub stars"/></a>
 </p>
